@@ -5,15 +5,15 @@
 ### My Creative Works
 
 [Ripped Portrait Effect](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="image_2021-12-08_101614.png?raw=true"/>
 
 ---
 [Graffiti Style Image](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="image_2021-12-08_101643.png?raw=true"/>
 
 ---
 [Double Exposure Effect](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="image_2021-12-08_101702.png?raw=true"/>
 
 ---
 
