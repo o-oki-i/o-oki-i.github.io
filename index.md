@@ -17,11 +17,14 @@
 
 ---
 
-### Category Name 2
+### My Creative Works (2)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Galaxy Cat](http://example.com/)
+- <img src="images/image_2021-12-17_103538.png?raw=true"/>
+- [Retro Collage](http://example.com/)
+- <img src="images/image_2021-12-17_103605.png?raw=true"/>
+- [3D Pop Out Image](http://example.com/)
+- <img src="images/image_2021-12-17_103616.png?raw=true"/>
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
