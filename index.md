@@ -25,7 +25,7 @@
   <img src="images/image_2021-12-17_103605.png?raw=true"/>
 - [3D Pop Out Image](http://example.com/)
   <img src="images/image_2021-12-17_103616.png?raw=true"/>
- - [Earth Day](http://example.com/)
+- [Earth Day](http://example.com/)
   <img src="image_2021-12-17_103553.png?raw=true"/>
 
 
